@@ -1,0 +1,61 @@
+
+.team_info_parents{
+    width: 100vw;
+    height: 100vh;
+
+    background-color: #ccc;
+    
+   
+}
+.team_info_child{
+    margin: 1rem;
+   
+
+    
+}
+.team_info_container{
+    width: 37%;
+    margin: 0 auto;
+    height: 93vh;
+    overflow-y: auto;
+    border-radius: 4px;
+    background-color: white;
+    position: relative;
+    top: 2rem;
+
+   
+}
+.addicon{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+ .team_title{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+ }
+ .info_container{
+    margin-top: 1rem;
+ }
+ .info_section{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #bdbdbd82;
+    border-top: 1px solid #bdbdbd82;
+   padding: 1rem;
+  
+    gap: 3rem;
+
+ }
+ .memebersTitle{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-style: inherit;
+ }
+ .info_box{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+ }
