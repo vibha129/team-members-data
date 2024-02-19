@@ -16,7 +16,7 @@ at localhost:3000 app will start working.
 
 a. React .
 b.Redux-toolkits (Global state management).
-c.materail-ui (styling).
+c.materail-ui (styling).tech-stack
 d.formik and yup (for form validation)
 
 
