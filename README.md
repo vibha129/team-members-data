@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Get started with project
 
-Clone this github repo to the local - git clone 
-run the command -npm install .
-run the command -npm start.
+Clone this github repo to the local - git clone  \
+run the command -npm install .\
+run the command -npm start.\
 
 
 at localhost:3000 app will start working.
@@ -14,9 +14,9 @@ at localhost:3000 app will start working.
 ## Project Details (tech-stack)
 
 
-a. React .
-b.Redux-toolkits (Global state management).
-c.materail-ui (styling).tech-stack
+a. React .\
+b.Redux-toolkits (Global state management).\
+c.materail-ui (styling).\
 d.formik and yup (for form validation)
 
 
