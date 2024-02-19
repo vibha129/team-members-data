@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Get started with project
 
-Clone this github repo to the local - git clone  \
+Clone this github repo to the local - git clone https://github.com/vibha129/team-members-data.git \
 run the command -npm install .\
-run the command -npm start.\
+run the command -npm start.
 
 
 at localhost:3000 app will start working.
